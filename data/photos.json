@@ -8,15 +8,5 @@
         "profile_image": "https://raw.githubusercontent.com/mystoreid/testi/main/images/profile_1766849118.jpg",
         "font_style": "Roboto",
         "font_color": "#3b82f6"
-    },
-    {
-        "id": "photo_694ffaafab5db6.40268131",
-        "name": "test",
-        "job": "test",
-        "date": "2025-12-27",
-        "image_url": "https://raw.githubusercontent.com/mystoreid/testi/main/images/photo_1766849193.jpg",
-        "profile_image": "",
-        "font_style": "Inter",
-        "font_color": "#3b82f6"
     }
 ]
